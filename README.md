@@ -1,4 +1,4 @@
-### Hey there! I'm Sam 👋 
+### Hey there! I'm Sam 👋 🧔🏻‍♂️
 
 🌱 I’m currently learning AWS, Terraform, Docker and The 3 Musketeers pattern.
 
