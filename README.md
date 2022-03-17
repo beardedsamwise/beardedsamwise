@@ -1,6 +1,6 @@
 ### Hey there! I'm Sam 👋 🧔🏻‍♂️
 
-🌱 I’m currently learning Azure, AWS, Terraform, Docker and The 3 Musketeers pattern.
+🌱 I’m currently working with Azure, AWS, Terraform, Docker and The 3 Musketeers pattern.
 
 <a href="https://www.linkedin.com/in/samjamesb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   
