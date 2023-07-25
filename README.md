@@ -1,6 +1,6 @@
 ### Hey there! I'm Sam 👋 🧔🏻‍♂️
 
-🌱 I’m currently working with AWS, GCP, Terraform and Kubernetes, and sharpening up my Python skills.
+🌱 I’m currently working with GCP, Terraform and Kubernetes, and sharpening up my Python skills.
 
 <a href="https://www.linkedin.com/in/samjamesb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   
