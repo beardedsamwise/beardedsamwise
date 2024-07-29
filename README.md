@@ -1,7 +1,7 @@
 ### Hey there! I'm Sam 👋 🧔🏻‍♂️ 
 
 💻 I'm a Cloud Platform Engineer (DevOps Engineer) \
-🛠️ I’m currently working with AWS, CDK (TypeScript), Terraform and Python \
+🛠️ I’m currently working with Python, AWS, CDK (TypeScript), and Terraform
 🌱 When I find the time I like sharpening up my Python skills (often as part of Advent of Code) 
 
 <a href="https://www.linkedin.com/in/samjamesb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
